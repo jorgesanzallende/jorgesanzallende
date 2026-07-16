@@ -1,0 +1,12 @@
+# Archivos temporales de R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos de datos
+*.xlsx
+*.csv
+
+# Permitir explícitamente rastrear el README de data/raw
+!data/raw/README.md
