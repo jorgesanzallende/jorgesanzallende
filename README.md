@@ -15,4 +15,4 @@ Mi enfoque es claro: utilizar el rigor estadístico y el desarrollo de software 
 *(Próximamente: Arquitectura y modelos de datos)*
 
 ---
-📫 **Contacto:** jorsanz09@gmail.com | https://www.linkedin.com/in/jorge-sanz-allende-949776282/
+📫 **Contacto:** jorsanz09@gmail.com | [Linkedin](https://www.linkedin.com/in/jorge-sanz-allende-949776282/)
